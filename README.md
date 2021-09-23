@@ -5,6 +5,6 @@ Generates a random neighborhood map and places buildings / establishments. Then 
 
 Examples:
 
-![example1](screenshot/screenshot1.png)
+![example1](screenshot/screenshot-1.png)
 
-![example2](screenshot/screenshot2.png)
+![example2](screenshot/screenshot-2.png)
